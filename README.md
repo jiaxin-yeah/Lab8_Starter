@@ -1,5 +1,5 @@
 # Lab 8 - Starter
-## Name: Jiaxin Ye and Sisy Chen <br>
+## Name: Jiaxin Ye<br>
 1) Where would you fit your automated tests in your Recipe project development pipeline? <br>
 
 **Answer:** Within a Github action that runs whenever code is pushed since we don't have to manually run the tests if we're within a github action. Also, we can run the tests whenever the codes are published so that we can quickly identify if our codes are correct or not. <br>
